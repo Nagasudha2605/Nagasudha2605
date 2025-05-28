@@ -1,4 +1,4 @@
-##  About me:
+## 💫 About me:
 Data Analyst | Turning Data into Insights | SQL (5⭐ HackerRank), Python, Power BI | Certified in Data Science | Actively Seeking Opportunities
 
 ## 🌐 Socials:

@@ -1,3 +1,5 @@
+##  About me:
+Data Analyst | Turning Data into Insights | SQL (5⭐ HackerRank), Python, Power BI | Certified in Data Science | Actively Seeking Opportunities
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagasudha-s-69993721a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagasudhas919@gmail.com) 
